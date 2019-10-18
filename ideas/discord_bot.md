@@ -6,3 +6,7 @@
 * Add your ID to the list
 * Tournament info
 * Bot help
+
+### Docs
+
+https://www.toptal.com/chatbot/how-to-make-a-discord-bot
